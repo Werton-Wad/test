@@ -1,1 +1,1 @@
-#* https://Wad-Werton.github.io/rsschool-cv/cv*
+#* https://Werton-Wad.github.io/rsschool-cv/cv*
